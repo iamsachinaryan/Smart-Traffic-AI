@@ -1,0 +1,8 @@
+opencv-python
+numpy
+ultralytics
+cvzone
+matplotlib
+Pillow
+pyinstaller
+pandas
