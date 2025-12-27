@@ -81,11 +81,6 @@ This project is built entirely using **Python** and advanced AI libraries:
 | **Database** | SQLite 🗄️ |
 
 ---
-
-## 📸 Screenshots
-
-
-
 ---
 
 ## 📥 Installation & Setup
